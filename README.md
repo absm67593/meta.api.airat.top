@@ -4,8 +4,8 @@
 
 Public Cloudflare Worker API that extracts webpage metadata by URL.
 
-Live endpoint:
-- https://meta.api.airat.top
+Live endpoint: https://meta.api.airat.top
+Status page: https://status.airat.top
 
 ## API
 
